@@ -77,7 +77,7 @@ export default function App() {
         ></i>
 
         <div className="profile-img">
-          <img src="/assets/img/vince.jpg" alt="profile" className="img-fluid rounded-circle" />
+          <img src="./assets/img/vince.jpg" alt="profile" className="img-fluid rounded-circle" />
         </div>
 
         <a href="#hero" className="logo d-flex align-items-center justify-content-center" onClick={scrollTo("hero")}>
@@ -123,7 +123,7 @@ export default function App() {
               </a>
             </li>
             <li>
-              <a href="/assets/DURIGA.pdf" download className="download-cv">
+              <a href="./assets/DURIGA.pdf" download className="download-cv">
                 <i className="bi bi-download navicon"></i> Download CV
               </a>
             </li>
@@ -134,7 +134,7 @@ export default function App() {
 
       <main className="main">
         <section id="hero" className="hero section dark-background">
-          <img src="/assets/img/sample.jpg" alt="hero-bg" className="hero-bg" />
+          <img src="./assets/img/sample.jpg" alt="hero-bg" className="hero-bg" />
 
           <div className="container">
             <h2>Vincent Lee Duriga</h2>
@@ -158,7 +158,7 @@ export default function App() {
           <div className="container">
             <div className="row gy-4 justify-content-center">
               <div className="col-lg-4">
-                <img src="/assets/img/pogipic.jpg" className="img-fluid" alt="profile" />
+                <img src="./assets/img/pogipic.jpg" className="img-fluid" alt="profile" />
               </div>
               <div className="col-lg-8 content">
                 <h2>My Biography</h2>
@@ -315,7 +315,7 @@ export default function App() {
               {Array.from({ length: 3 }).map((_, i) => (
                 <div className="portfolio-item" key={i}>
                   <div className="portfolio-content">
-                    <img src={`/assets/img/portfolio/${["computervision", "ticketing", "ecommerce"][i]}.jpg`} className="img-fluid" alt={`item-${i}`} />
+                    <img src={`./assets/img/portfolio/${["computervision", "ticketing", "ecommerce"][i]}.jpg`} className="img-fluid" alt={`item-${i}`} />
                     <div className="portfolio-info">
     
                     </div>
