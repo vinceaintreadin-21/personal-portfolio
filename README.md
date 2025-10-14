@@ -111,7 +111,7 @@ You can access the live version of your portfolio once it's deployed:
 
 ## 🎥 Demo Recording
 
-- **Walkthrough:** Live portfolio webpage  
-- **Walkthrough:** Live portfolio codebase
+- **Walkthrough:** [Live portfolio webpage](https://drive.google.com/file/d/1opsdBrL8358OLZtudZret5lKu3zBGJou/view?usp=sharing)  
+- **Walkthrough:** [Live portfolio codebase](https://drive.google.com/file/d/1xthJ2imKQuNzANmUelyYpIoFae2T1HzN/view?usp=sharing)
 
 
