@@ -23,11 +23,9 @@ reflecting both my **design sense** and **technical capabilities**.
 
 ## 🧩 Portfolio Features
 
-> Modify this section based on the specific features and sections you've included in your portfolio.
-
 This portfolio consists of several key sections:
 
-### 1. 🧍 Biography Page
+### 1. 🧍 About/Biography Page
 - A personal overview of who I am, my educational background, and my interests.  
 - A section detailing my passions and goals, providing a more personal touch beyond my technical skills.
 
@@ -35,7 +33,7 @@ This portfolio consists of several key sections:
 - A showcase of my technical projects, complete with descriptions, technologies used, and links to GitHub repositories or live demos.  
 - Visitors can explore the work I have done, understand my approach, and view my coding style.
 
-### 3. 🛠️ Skills Page
+### 3. 🛠️ Skills & Franewirks Page
 - A visual presentation of the programming languages, frameworks, and tools I am proficient in.  
 - Includes interactive elements such as badges or charts to make it engaging and easy to understand my technical expertise.
 
@@ -44,19 +42,8 @@ This portfolio consists of several key sections:
 - This section provides a quick way for potential employers to review my qualifications.
 
 ### 5. ✉️ Contact Page
-- A page allowing visitors to reach out via a **contact form**, **email address**, or **professional social media links** (e.g., LinkedIn, GitHub).  
+- A page allowing visitors to reach out via a **contact form**, **email address**, or **professional social media links** 
 - This ensures that anyone interested in connecting with me can do so easily.
-
----
-
-## 🧱 Technologies Used
-
-This personal portfolio was built with the following technologies:
-
-- ⚛️ **React** – The primary JavaScript library used to create the interactive elements of the site.  
-- ⚡ **Vite** – A modern build tool for faster React development.  
-- 🎨 **CSS** – For styling the layout and design.  
-- 🌐 **GitHub Pages** – For hosting and deploying the live version of the website.
 
 ---
 
@@ -66,7 +53,6 @@ This personal portfolio was built with the following technologies:
 
 - 📱 **Responsive Design:** Adapts seamlessly to different screen sizes, including mobile and tablet.  
 - 🧩 **Interactive Elements:** Hover effects, animations, and clickable badges.  
-- 🌙 **Dark Mode:** Optional toggle for user preference and readability.  
 - 🧭 **Smooth Navigation:** Clean, intuitive header with anchor links for quick access to all sections.
 
 ---
@@ -112,6 +98,8 @@ To deploy your portfolio to **GitHub Pages**:
 2. **Push the build folder to your GitHub Pages branch (usually gh-pages):**
     ```bash
     npm run build
+
+2. **If using GitHub Pages, follow the [official guide for deployment].**
   
 
 ##🌐 Live Demo
@@ -119,7 +107,7 @@ To deploy your portfolio to **GitHub Pages**:
 You can access the live version of your portfolio once it's deployed:
 
 **GitHub Pages URL:**  
-[https://your-username.github.io/personal-portfolio](https://your-username.github.io/personal-portfolio)
+[https://vinceaintreadin-21.github.io/personal-portfolio](https://vinceaintreadin-21.github.io/personal-portfolio)
 
 ---
 
