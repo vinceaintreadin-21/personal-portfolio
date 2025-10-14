@@ -37,19 +37,17 @@ This portfolio consists of several key sections:
 - A visual presentation of the programming languages, frameworks, and tools I am proficient in.  
 - Includes interactive elements such as badges or charts to make it engaging and easy to understand my technical expertise.
 
-### 4. 📄 Resume Section
+### 4. 📄 Resume Section & Downloadable PDF
 - A downloadable PDF version of my professional resume, summarizing my work experience, key accomplishments, and skills.  
 - This section provides a quick way for potential employers to review my qualifications.
 
 ### 5. ✉️ Contact Page
-- A page allowing visitors to reach out via a **contact form**, **email address**, or **professional social media links** 
+- A page allowing visitors to reach out via a **email address**, or **professional social media links** 
 - This ensures that anyone interested in connecting with me can do so easily.
 
 ---
 
 ## ⚙️ Features and Functionality
-
-> Update this section to reflect the features and functionality available in your portfolio.
 
 - 📱 **Responsive Design:** Adapts seamlessly to different screen sizes, including mobile and tablet.  
 - 🧩 **Interactive Elements:** Hover effects, animations, and clickable badges.  
