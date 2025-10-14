@@ -98,7 +98,7 @@ Open your browser and visit:
 > *(Usually **5173** is the default port)*
 
 to view the site locally.
-
+```
 ---
 
 ### 🚀 Deployment
@@ -111,10 +111,10 @@ To deploy your portfolio to **GitHub Pages**:
 
 2. **Push the build folder to your GitHub Pages branch (usually gh-pages):**
     ```bash
-  npm run deploy
+    npm run build
+  
 
-
-## 🌐 Live Demo
+##🌐 Live Demo
 
 You can access the live version of your portfolio once it's deployed:
 
@@ -127,3 +127,5 @@ You can access the live version of your portfolio once it's deployed:
 
 - **Walkthrough:** Live portfolio webpage  
 - **Walkthrough:** Live portfolio codebase
+
+
