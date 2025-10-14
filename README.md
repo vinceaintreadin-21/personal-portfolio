@@ -90,3 +90,40 @@ npm install
 
 # Start the development server
 npm run dev
+
+### 🧭 View Locally
+
+Open your browser and visit:
+
+> *(Usually **5173** is the default port)*
+
+to view the site locally.
+
+---
+
+### 🚀 Deployment
+
+To deploy your portfolio to **GitHub Pages**:
+
+1. **Build the project for production:**
+   ```bash
+   npm run build
+
+2. **Push the build folder to your GitHub Pages branch (usually gh-pages):**
+    ```bash
+  npm run deploy
+
+
+## 🌐 Live Demo
+
+You can access the live version of your portfolio once it's deployed:
+
+**GitHub Pages URL:**  
+[https://your-username.github.io/personal-portfolio](https://your-username.github.io/personal-portfolio)
+
+---
+
+## 🎥 Demo Recording
+
+- **Walkthrough:** Live portfolio webpage  
+- **Walkthrough:** Live portfolio codebase
