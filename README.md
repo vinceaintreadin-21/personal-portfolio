@@ -102,7 +102,7 @@ To deploy your portfolio to **GitHub Pages**:
 2. **If using GitHub Pages, follow the [official guide for deployment].**
   
 
-##🌐 Live Demo
+### 🌐 Live Demo
 
 You can access the live version of your portfolio once it's deployed:
 
