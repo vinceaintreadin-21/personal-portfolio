@@ -64,7 +64,7 @@ Ensure you have **Node.js** and **npm (or yarn)** installed on your computer.
 
 ```bash
 # Clone this repository to your local machine
-git clone https://github.com/your-username/personal-portfolio.git
+git clone https://github.com/vinceaintreadin-21/personal-portfolio.git
 
 # Navigate to the project directory
 cd personal-portfolio
