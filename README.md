@@ -30,7 +30,7 @@ This portfolio consists of several key sections:
 - A section detailing my passions and goals, providing a more personal touch beyond my technical skills.
 
 ### 2. 💻 Projects Page
-- A showcase of my technical projects, complete with descriptions, technologies used, and links to GitHub repositories or live demos.  
+- A showcase of my technical projects.  
 - Visitors can explore the work I have done, understand my approach, and view my coding style.
 
 ### 3. 🛠️ Skills & Franewirks Page
