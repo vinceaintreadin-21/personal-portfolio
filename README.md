@@ -95,7 +95,7 @@ To deploy your portfolio to **GitHub Pages**:
 
 2. **Push the build folder to your GitHub Pages branch (usually gh-pages):**
     ```bash
-    npm run build
+    npm run deploy
 
 2. **If using GitHub Pages, follow the [official guide for deployment].**
   
